@@ -7,9 +7,7 @@
 
  
 # How do you approach a problem as a computer scientist?
-     Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. 
- How did your approach to this project differ from previous assignments in other courses? 
- What techniques or strategies would you use in the future to create databases to meet other client requests?
+     Consider how you approached the database or dashboard requirements that Grazioso Salvare requested.  How did your approach to this project differ from previous ssignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
     Computer scientists approach software using primary critical thinking. I begin by analyzing the challenge. When I understand the requirements, I can interpret different solutions and decide the best solution. With this, I develop test cases with pass and fail metrics for each requirement. Consequently, I can develop a tool to deal with the challenges, implement test cases, and debug applications.
 
